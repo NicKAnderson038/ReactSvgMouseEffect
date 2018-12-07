@@ -1,2 +1,0 @@
-# ReactSvgMouseEffect
-Created with CodeSandbox
